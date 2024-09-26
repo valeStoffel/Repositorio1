@@ -1,3 +1,5 @@
+Tabela com dados do código
+
 | Variável      | Tipo    | Descrição                    |
 |--------------|---------|------------------------------|
 | idade        | inteiro | Idade inserida pelo usuário.  |
