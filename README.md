@@ -1,4 +1,4 @@
-Tabela com dados do código
+O programa realiza o calculo de IMC
 
 | Variável      | Tipo    | Descrição                    |
 |--------------|---------|------------------------------|
